@@ -1,5 +1,0 @@
-[Containments][1][Applets][2][Configuration][General]
-favorites=brave-browser.desktop,org.kde.dolphin.desktop,org.kde.konversation.desktop,libreoffice-writer.desktop,cantata.desktop,kde4-digikam.desktop,org.kde.konsole.desktop,pamac-manager.desktop,pamac-updater.desktop,systemsettings.desktop
-
-[Containments][1][Applets][4][Configuration][General]
-launchers=applications:org.kde.dolphin.desktop,applications:brave-browser.desktop
